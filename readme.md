@@ -119,7 +119,6 @@ and to the **frontend developer community** for CSS layout and UI practices.
 
 ## Screenshots  
 
-```html
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img width="250" src="https://snipboard.io/8JltAa.jpg" alt="Home Page"/>
   <img width="250" src="https://snipboard.io/3dfNaJ.jpg" alt="Generic Page"/>
