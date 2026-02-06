@@ -1511,6 +1511,7 @@ header.major > .date:after {
   text-align: center;
   z-index: 1;
   min-height: 100vh;
+  
 }
 
 #intro h1 {
@@ -1583,6 +1584,7 @@ header.major > .date:after {
   color: #18bfef;
 }
 
+
 /* =============================================================================
    HEADER
    ============================================================================= */
@@ -1599,6 +1601,7 @@ header.major > .date:after {
   position: relative;
   text-align: center;
   z-index: 2;
+  
 }
 
 #header .logo {
@@ -1621,6 +1624,8 @@ header.major > .date:after {
   border-color: #18bfef !important;
   color: #18bfef !important;
 }
+      
+
 
 /* =============================================================================
    NAVIGATION
